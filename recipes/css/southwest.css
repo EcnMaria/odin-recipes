@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    background: rgba(228, 220, 133, 0.866);
+}
+h1 {
+    font-size: 30px;
+    color: orangered;
+    text-align: center;
+    background-color: rgba(240, 145, 110, 0.563);
+    border-style: dotted;
+    border-radius: 8px;
+    border-color: red;
+    border-width: 4px;
+    padding: 20px;
+    margin: 5px 200px 40px
+}
+.container {
+    border: 3px double brown;
+    display: block;
+}
+h2 {
+    font-size: 25px;
+    color: orangered;
+    padding-left: 5px;
+    margin-left: 15px;
+    display: block;
+}
+.box {
+    display: flex;
+}
+img {
+    margin-bottom: 5px;
+    margin-left: 150px;
+}
+.border {
+    border: 2px solid blue;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    width: 500px;
+    height: 200px;
+} 
+.block {
+    display: block;
+    font-size: 20px;
+    margin: 5px 10px
+}
+.red {
+    display: inline-block;
+    border: 2px solid red;
+    padding: 25px;
+}
+ul {
+    display: block;
+}
+

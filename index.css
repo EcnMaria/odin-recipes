@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(245, 164, 254);
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ideas {
+    margin-top: 80px;
+    font-size: 30px;
+}
+.pictures {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+.item {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-right: 40px;
+}
+a {
+    font-size: 20px;
+}
+img {
+    width: auto;
+    height: 200px;
+}
+h1 {
+    background-color: rgb(173, 20, 117);
+    color:rgb(18, 18, 18);
+    text-align: center;
+    font-size: 50px;
+    font-weight: 200;
+    font-style: italic;
+    border: 1px solid rgb(116, 10, 77);
+    padding: 10px;
+    margin: 20px 400px;
+}
+
+
